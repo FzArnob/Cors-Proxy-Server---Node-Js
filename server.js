@@ -11,7 +11,7 @@ var originBlacklist = parseEnvList(process.env.CORSANYWHERE_BLACKLIST);
 var originWhitelist = parseEnvList(process.env.CORSANYWHERE_WHITELIST);
 function parseEnvList(env) {
   if (!env) {
-    return [];
+    return ['*'];
   }
   return env.split(',');
 }
