@@ -10,4 +10,4 @@ Market, User, Customer behavior estimation based public Data source such as soci
 # Target Outcome
 Scrapping data from public source.
 
--Example: Music data from Youtube.
+- Example: Music data from Youtube.
