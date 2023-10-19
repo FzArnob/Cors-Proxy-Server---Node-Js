@@ -1,12 +1,14 @@
-Language: Java Scripts
-Environment: Node Js
-Express Framework 
+#Language: 
+Java Script
+#Environment: 
+Node Js
+- Express Framework 
 
-Usage Area:
+#Usage Area:
 Market, User, Customer behavior estimation based public Data source such as social platform or QA forum
 
-Target Outcome:
+#Target Outcome:
 Scrapping data from public source.
 
-Example:
+#Example:
 Music data from Youtube.
